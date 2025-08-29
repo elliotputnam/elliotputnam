@@ -23,10 +23,10 @@
 - Anti-cheat Implementation
 
 🌟 Vision
-My goal is to contribute to the gaming community by developing fun and creative multiplayer experiences that bring players together. I believe in creating games that not only challenge players but also foster meaningful social interactions.
+- My goal is to contribute to the gaming community by developing fun and creative multiplayer experiences that bring players together. I believe in creating games that not only challenge players but also foster meaningful social interactions.
 
 📫 Connect With Me
 - Feel free to reach out if you're interested in game development, multiplayer systems, or just want to discuss gaming in general!
 
-Mail : putputwutwut@gmail.com
-Youtube : @eput (hoping to start posting soon)
+- Mail : putputwutwut@gmail.com
+- Youtube : @eput (hoping to start posting soon)
