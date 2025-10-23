@@ -27,5 +27,5 @@
 📫 Connect With Me
 - Feel free to reach out if you're interested in game development, general programming, fantasy realms, or just want to discuss life in general!
 
-- Mail : eputnam@proton.me
+- Mail : elliotputnam@gmail.com
 - Youtube : @eput (hoping to start posting soon)
